@@ -1,10 +1,9 @@
 import React from 'react'
 import Js from '../assets/image/js.png'
-import Reactjs from '../assets/image/React.png'
+import Reactjs from '../assets/image/react.png'
 import bootstrap from '../assets/image/Bootstrap.png'
 import html from '../assets/image/html.png'
 import css from '../assets/image/css.png'
-import profile from '../assets/image/profile.jpeg'
 
 
 const Skill = () => {
